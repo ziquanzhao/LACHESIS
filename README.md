@@ -1,3 +1,10 @@
+#  用于组装染色体的一个工具
+#  用于组装染色体的一个工具
+#  用于组装染色体的一个工具
+#  用于组装染色体的一个工具
+#  用于组装染色体的一个工具
+
+
 ### Note: LACHESIS is no longer being actively developed. If you run into issues, we suggest trying more recently developed software that implements this same concept (e.g. see http://github.com/theaidenlab).
 
 ## LACHESIS User's Manual and Quick Start Guide
